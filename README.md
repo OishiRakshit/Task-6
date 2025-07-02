@@ -7,7 +7,6 @@ Understand the key characteristics of a strong password and evaluate password st
 
 ## 🛠️ Tools Used
 - [PasswordMeter](https://www.passwordmeter.com/)
-- [Kaspersky Password Checker](https://password.kaspersky.com/)
 
 ---
 
